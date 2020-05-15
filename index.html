@@ -346,6 +346,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/05/15/0/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/05/15/0/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -478,7 +488,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2020/05/15/1/" itemprop="url">加密001</a></h1>
+                <a class="post-title-link" href="/2020/05/15/1/" itemprop="url">1</a></h1>
         
 
         <div class="post-meta">
@@ -504,6 +514,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/05/15/1/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/05/15/1/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -522,7 +542,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  4字
+                  5字
                 </span>
               
 
@@ -560,7 +580,7 @@
 
       
         
-          本文已加密
+          这是第一篇文章
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/2020/05/15/1/">
@@ -633,7 +653,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2020/05/15/2/" itemprop="url">加密002</a></h1>
+                <a class="post-title-link" href="/2020/05/15/2/" itemprop="url">2</a></h1>
         
 
         <div class="post-meta">
@@ -659,6 +679,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/05/15/2/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/05/15/2/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -677,7 +707,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  4字
+                  5字
                 </span>
               
 
@@ -715,7 +745,7 @@
 
       
         
-          本文已加密
+          这是第二篇文章
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/2020/05/15/2/">
@@ -873,7 +903,7 @@
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">12</span>
+    <span title="Site words total count">14</span>
   
 </div>
 
@@ -1039,6 +1069,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'qoX7qkGGOHUrOlviNnoI2YSf-gzGzoHsz',
+        appKey: 'MzbUtG8dP9K22BBaUFMhI1sM',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
