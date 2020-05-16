@@ -5,21 +5,19 @@
     <url>/2020/05/15/0/</url>
     <content><![CDATA[<p>当你遇到问题</p>
 <a id="more"></a>
-<p>有问题可以点击右下角蓝色圈圈留言</p>
+<p>可以点击右下角蓝色圈圈留言</p>
 ]]></content>
   </entry>
   <entry>
     <title>我的第一篇文章</title>
-    <url>/1970/01/01/1/</url>
+    <url>/2020/05/16/1/</url>
     <content><![CDATA[<p>第一篇文章</p>
 ]]></content>
       <categories>
         <category>分类1</category>
-        <category>分类2</category>
       </categories>
       <tags>
         <tag>标签1</tag>
-        <tag>标签2</tag>
       </tags>
   </entry>
 </search>
