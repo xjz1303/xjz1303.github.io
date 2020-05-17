@@ -174,3 +174,11 @@
     },
   });
 })();
+
+
+
+
+
+
+
+document.getElementById('nav').style.background = 'transparent'
