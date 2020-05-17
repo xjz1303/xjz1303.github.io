@@ -20,7 +20,7 @@
     <title>夏君竹写博客</title>
     <link href="http://yoursite.com/2020/05/17/1/"/>
     <id>http://yoursite.com/2020/05/17/1/</id>
-    <published>2020-05-17T04:37:41.125Z</published>
+    <published>2020-05-17T09:53:12.740Z</published>
     <updated>2020-05-17T05:17:47.665Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a><div class="demo"></div><script>    function tt(){        $('.demo').slider({    imgList: [        {            img: '/uploads/0.jpg',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@master/2020/04/13/5005109d1aa2ffd28984c2b02b8cbfbe.png',            a: '跳转url地址',        },        {            img: 'https://cdn.jsdelivr.net/gh/blogimg/picbed@master/2020/04/13/163a2ade4361d1ed705ed523091af67e.png',            a: '跳转url地址',        }    ], //图片的列表，a属性里面存放的是网络地址，img存放的是图片地址    width: "100%", //图片的宽    height: 500, //图片的高    isAuto: false, //是否自动轮播    moveTime: 3000, //运动时间    direction: 'right', //轮播的方向    btnWidth: 30, //按钮的宽    btnHeight: 30, //按钮的高    spanWidth: 10, //span按钮的宽    spanHeight: 10, //span按钮的高    spanColor: '#fff', //span按钮的颜色    activeSpanColor: 'red', //选中的span颜色    btnBackgroundColor: 'rgba(0, 0, 0, 0.3)', //两侧按钮的颜色    spanRadius: '50%', //span按钮的圆角程度    spanMargin: 3, //span之间的距离})    }    window.addEventListener('DOMContentLoaded',tt)</script>]]></content>
@@ -53,7 +53,7 @@
     <title>置顶公告</title>
     <link href="http://yoursite.com/2020/05/17/0/"/>
     <id>http://yoursite.com/2020/05/17/0/</id>
-    <published>2020-05-17T01:01:26.073Z</published>
+    <published>2020-05-17T09:53:12.739Z</published>
     <updated>2020-05-17T03:17:35.506Z</updated>
     
     <content type="html"><![CDATA[<p>当你遇到问题</p><a id="more"></a><p>可以点击右下角蓝色圈圈留言</p>]]></content>

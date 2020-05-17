@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>置顶公告</title>
+    <url>/2020/05/17/0/</url>
+    <content><![CDATA[<p>当你遇到问题</p>
+<a id="more"></a>
+<p>可以点击右下角蓝色圈圈留言</p>
+]]></content>
+  </entry>
+  <entry>
     <title>夏君竹写博客</title>
     <url>/2020/05/17/1/</url>
     <content><![CDATA[<a id="more"></a>
@@ -46,13 +54,5 @@
       <tags>
         <tag>测试</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>置顶公告</title>
-    <url>/2020/05/17/0/</url>
-    <content><![CDATA[<p>当你遇到问题</p>
-<a id="more"></a>
-<p>可以点击右下角蓝色圈圈留言</p>
-]]></content>
   </entry>
 </search>
