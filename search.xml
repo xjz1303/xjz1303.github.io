@@ -3,13 +3,11 @@
   <entry>
     <title>置顶公告</title>
     <url>/2020/05/17/0/</url>
-    <content><![CDATA[<p>当你遇到问题</p>
-<a id="more"></a>
-<p>可以点击右下角蓝色圈圈留言</p>
+    <content><![CDATA[<p>这里是一条公告</p>
 ]]></content>
   </entry>
   <entry>
-    <title>夏君竹写博客</title>
+    <title>元歌</title>
     <url>/2020/05/17/1/</url>
     <content><![CDATA[<p>当人们发现他时，少年因为惊吓和恐惧完全失去了说话的能力。没有人清楚他目睹到多么可怕的不幸。变成孤儿的他被送往稷下，世人认为无所不能的地方。</p>
 <p>那时，因博学多闻而光彩夺目的师兄，是无数学子心目中的偶像。无论魔道机关，智谋兵法，样样居冠，一切疑难在他面前似乎都能迎刃而解。他勉励那遭遇过度恐惧失去声音的少年，以机关制作傀儡，代替喉咙和舌头与世界恢复交流。</p>
@@ -57,9 +55,10 @@
 ]]></content>
       <categories>
         <category>文章</category>
+        <category>元歌</category>
       </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>元歌</tag>
       </tags>
   </entry>
 </search>
